@@ -1,0 +1,35 @@
+.html{
+    border: solid grey 2px;
+    margin: 1px;
+    border-radius: 2px;
+}
+
+.css{
+    border: solid grey 2px;
+    margin: 1px;
+    border-radius: 2px;
+}
+
+.js{
+    border: solid grey 2px;
+    margin: 1px;
+    border-radius: 2px;
+}
+
+.output{
+    border: solid grey 2px;
+    margin: 1px;
+    width: 98.6%;
+    border-radius: 2px;
+}
+
+.container{
+    display: grid;
+    grid-template-rows: 50% 50%;
+    height: 100vh;
+}
+
+.top{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
